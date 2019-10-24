@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/adoption/static/js/main.1156edcf.chunk.js",
+    "main.js.map": "/adoption/static/js/main.1156edcf.chunk.js.map",
+    "runtime-main.js": "/adoption/static/js/runtime-main.d712586e.js",
+    "runtime-main.js.map": "/adoption/static/js/runtime-main.d712586e.js.map",
+    "index.html": "/adoption/index.html",
+    "precache-manifest.1d330e5132baf20e805e725e4690c852.js": "/adoption/precache-manifest.1d330e5132baf20e805e725e4690c852.js",
+    "service-worker.js": "/adoption/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d712586e.js",
+    "static/js/main.1156edcf.chunk.js"
+  ]
+}
