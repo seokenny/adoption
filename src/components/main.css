@@ -87,3 +87,7 @@
     letter-spacing:unset;
     width:90%;
 }
+
+.hidden {
+    display:none;
+}
